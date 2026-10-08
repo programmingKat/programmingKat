@@ -2,6 +2,11 @@
 ## ✧ hi there. i'm kat ✧
 ### full-stack software engineer · math nerd · educator 
 
+──────▄▀▄─────▄▀▄    
+─────▄█░░▀▀▀▀▀░░█▄  
+─▄▄──█░░░░░░░░░░░█──▄▄  
+█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█  
+
 ## ♡ a little about me
 
 i'm a software engineer with a background in **mathematics**. 
@@ -58,8 +63,4 @@ _i hope you have a lovely day!_
 </a>
 
 </p>
-##
-──────▄▀▄─────▄▀▄    
-─────▄█░░▀▀▀▀▀░░█▄  
-─▄▄──█░░░░░░░░░░░█──▄▄  
-█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█  
+
