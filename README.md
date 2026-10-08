@@ -33,7 +33,17 @@ i'm a software engineer with a background in **mathematics**.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,express,vercel" />
 </p>
 
-## 💌 let's connect
+## ♡ outside of code
+if i'm not staring at a terminal then i'm running around **philly + nyc**.   
+i'm always in search of good coffee and thrift shops. 
+
+my current hyperfixations include: f1 ~ forza ferarrriiii, baking and language learning. 
+
+
+_i hope you have a lovely day!_
+✧･ﾟ: *✧･ﾟ♡*(˶ᵔ ᵕ ᵔ˶ )*♡･ﾟ✧*:･ﾟ✧  
+
+## ♡ let's connect
 <p align="center">
 
 <a href="https://www.linkedin.com/in/katherine-solchaga">
