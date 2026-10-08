@@ -54,4 +54,3 @@ i'm a software engineer with a background in **mathematics**.
 </a>
 
 </p>
----
