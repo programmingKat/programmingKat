@@ -5,8 +5,7 @@
 ─────▄█░░▀▀▀▀▀░░█▄  
 ─▄▄──█░░░░░░░░░░░█──▄▄  
 █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█  
-### full-stack software engineer · math nerd · educator ·
-I’m a developer with a background in **mathematics and education**
+### full-stack software engineer · math nerd · educator 
 
 ## ♡ a little about me
 
